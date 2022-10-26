@@ -1,9 +1,10 @@
 import React from "react";
+import CounterPage from "./pages/ConuterPage";
 
 function App() {
     return (
         <div>
-            <h2>Hello World</h2>
+            <CounterPage/>
         </div>
     );
 }
